@@ -1,3 +1,9 @@
+// script.js
+window.deobfuscate = function(code) {
+    // Your deobfuscation logic here.
+    // Replace the next line with actual processing:
+    return "Deobfuscated result:\n" + code;
+};
 !function() {
     var e, t, n = {
         890: function(e, t, n) {
